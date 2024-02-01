@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Poppins:wght@100;300;400;600;700&display=swap');
+
+.about-text-header {
+    font-size: 34px;
+    font-style: normal;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    line-height: 41.99px;
+    color: rgba(21, 35, 74, 0.87);
+}
+
+.span-about {
+    color: #D10000;
+    font-family: 'Poppins', sans-serif;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 41.99px;
+}
+
+.page-wrapper {
+    color: rgba(21, 35, 74, 0.87);
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.span-para {
+    color: #D10000;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+
+
+.para-contact {
+    width: 350px;
+    color: rgba(21, 35, 74, 0.87);
+    font-family: 'Inter', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 15.064px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22.595px;
+}
+
+.title-footer {
+    color: rgba(21, 35, 74, 0.87);
+    font-family: 'Inter', sans-serif;
+    font-size: 13.181px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18.829px;
+    text-decoration: none !important;
+}
+
+.title-links {
+    color:  #15234A;
+    font-family: Inter;
+    font-size: 16.064px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 23.595px; /* 150% */
+    text-decoration: none !important;
+}
+
+.shadow {
+    --tw-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+    --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
+    box-shadow: none !important;
+}
+
+
+/* © 2077 Sceniuz. All rights reserved. */

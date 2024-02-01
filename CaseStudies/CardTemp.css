@@ -1,0 +1,15 @@
+.card1 {
+    /* border: 3px solid black; */
+    transition: box-shadow 0.3s ease;
+   /* Add a transition for the box-shadow property */
+  }
+  
+  /* Change the box-shadow when hovering over the element */
+  .card1:hover {
+    box-shadow: 0 0 20px black; /* Increase the box-shadow on hover */
+    
+  }
+  
+  .link-no-underline {
+   text-decoration: none !important;
+  }

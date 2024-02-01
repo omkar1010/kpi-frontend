@@ -1,0 +1,7 @@
+ul.custom-list {
+    list-style-type: square;
+  }
+  
+  ul.custom-list li::marker {
+    color: #E09808; /* Change the color to your desired color */
+  }
